@@ -1,1 +1,2 @@
 estamos practicando git push
+nota nueva que adiciono para q se me vea en la rama Master
